@@ -75,6 +75,7 @@ Open the cloned project folder in IntelliJ IDEA.
 **3. Configure SQLite JDBC**
 
 Add the SQLite JDBC driver to the project's module dependencies in IntelliJ IDEA.
+https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.54.1.0/sqlite-jdbc-3.54.1.0.jar
 
 **4. Configure the database directory**
 
