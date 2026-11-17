@@ -1,0 +1,14 @@
+# IntelliJ files
+.idea/
+*.iml
+
+# Compiled Java files
+out/
+
+# SQLite database
+data/*.db
+data/*.db-shm
+data/*.db-wal
+
+# System files
+.DS_Store
