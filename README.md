@@ -1,12 +1,12 @@
-# AggieVault 💰
+# AggieCapital 💰
 
 ### Personal Finance & Budget Management Application
 
-AggieVault is a Java-based personal finance application designed to help users manage their finances, track income and expenses, and monitor their spending habits. Built using object-oriented programming and SQLite database integration, the application provides tools for organizing financial transactions and reviewing monthly financial activity.
+AggieCapital is a Java-based personal finance application designed to help users manage their finances, track income and expenses, and monitor their spending habits. Built using object-oriented programming and SQLite database integration, the application provides tools for organizing financial transactions and reviewing monthly financial activity.
 
 ## Overview
 
-Managing personal finances requires keeping track of income, expenses, and spending patterns. AggieVault provides a centralized application for recording financial transactions, organizing expenses by category, and reviewing financial summaries.
+Managing personal finances requires keeping track of income, expenses, and spending patterns. AggieCapital provides a centralized application for recording financial transactions, organizing expenses by category, and reviewing financial summaries.
 
 ## Features
 
@@ -32,7 +32,7 @@ Managing personal finances requires keeping track of income, expenses, and spend
 ## Application Structure
 
 ```text
-AggieVault/
+AggieCapital/
 │
 ├── main/
 │   └── java/
@@ -115,7 +115,7 @@ North Carolina A&T State University
 
 ## Project Purpose
 
-AggieVault was developed as a personal software engineering project to strengthen practical experience in Java application development, object-oriented programming, database management, and software design.
+AggieCapital was developed as a personal software engineering project to strengthen practical experience in Java application development, object-oriented programming, database management, and software design.
 
 Through this project, I applied programming concepts to build a functional application that addresses a real-world need while continuing to develop my technical skills.
 
