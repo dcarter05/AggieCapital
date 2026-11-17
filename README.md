@@ -115,7 +115,7 @@ Business Information Technology Student
 North Carolina A&T State University
 
 - **GitHub:** [@dcarter05](https://github.com/dcarter05)
-- **LinkedIn:** [Dorian Carter](https://www.linkedin.com/in/dorian-l-carter/)
+- **LinkedIn:** [Dorian Carter](https://www.linkedin.com/in/dorian-l-carter-)
 
 ## Project Purpose
 
