@@ -29,6 +29,10 @@ Managing personal finances requires keeping track of income, expenses, and spend
 | IntelliJ IDEA | Development environment |
 | Git & GitHub | Version control |
 
+##
+<img width="944" height="569" alt="Screenshot 2026-11-17 at 12 15 56 PM" src="https://github.com/user-attachments/assets/55a78f74-14d9-4634-be45-a26e6a57e2eb" />
+
+
 ## Application Structure
 
 ```text
